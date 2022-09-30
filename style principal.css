@@ -1,0 +1,34 @@
+body {
+    margin:0;
+    font-family:"Time new roman";
+    font-size: 158%;
+    color: white;
+    background-image: url("blackgrounds.jpg");
+ }
+
+ h1 {
+    text-align: center;
+    font-size: 30;
+    
+ }
+
+
+ h2 {
+    text-align: center;
+    font-size: 10;
+ }
+
+ p {
+    text-align: center;
+ }
+
+ img {
+    border-radius: 60%;
+ }
+ a{
+    color: white;
+    text-decoration: none;
+ }
+.vermelho{
+    color: red;
+}
